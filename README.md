@@ -2,9 +2,6 @@
     <img src='web\src\assets\logo.svg'>
 </h1>
 
-
-![Ecoleta](web\src\assets\logo.svg)
-
 <h4 align="center">
   🚀 1º Next Level Week
 </h4>
