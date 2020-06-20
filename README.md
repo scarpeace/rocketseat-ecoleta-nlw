@@ -2,6 +2,9 @@
     <img src='web\src\assets\logo.svg'>
 </h1>
 
+
+![Ecoleta](web\src\assets\logo.svg)
+
 <h4 align="center">
   🚀 1º Next Level Week
 </h4>
@@ -17,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img src='web\src\assets\github\peek.gif' width="70%" height="550">
+  <img src='web\src\assets\github\peek.gif' width="100%" height="550">
 </p>
 
 ## :rocket: Tecnologies
